@@ -14,7 +14,7 @@ from datetime import datetime
 # ==========================================
 class Config:
     # Banco de Dados
-    DB_HOST = '127.0.0.1'
+    DB_HOST = '172.16.0.99'
     DB_USER = 'rsyslog'
     DB_PASS = 'rsyslog'
     DB_NAME = 'Syslog'
